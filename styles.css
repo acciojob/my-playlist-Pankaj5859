@@ -8,6 +8,12 @@ h2{
 body{
 	background-color: rgb(204, 204, 204)
 }
+#box1{
+	display: flex;
+	text-align: left;
+	border: 1px solid black;
+	
+}
 video{
 	 background-color: rgb(255, 255, 255); padding; border-radius
 }
