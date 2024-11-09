@@ -1,11 +1,11 @@
 /*  your css code here. If applicable */
 h1{
 	text-align:center;
-	font-weight:900;
+
 }
 h2{
 	text-align:center;
-	font-weight:900;
+	
 }
 body{
 	background-color: rgb(204, 204, 204)
@@ -32,12 +32,12 @@ body{
 	
 	
 }
-video{
+.player_one{
 	height:350px;
 	width:80vw;
 	 background-color: rgb(255, 255, 255); padding; border-radius
 }
-audio{
+.player_two{
 	width:80vw;
 	background-color: rgb(255, 255, 255); padding; border-radius
 }
