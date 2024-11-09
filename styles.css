@@ -1,9 +1,11 @@
 /*  your css code here. If applicable */
 h1{
-	text-align:center
+	text-align:center;
+	font-weight:900;
 }
 h2{
-	text-align:center
+	text-align:center;
+	font-weight:900;
 }
 body{
 	background-color: rgb(204, 204, 204)
@@ -12,11 +14,30 @@ body{
 	display: flex;
 	text-align: left;
 	border: 1px solid black;
+	margin:20px;
+	border-radius: 10px;
+	background-color:white;
+	
+}
+#box2{
+	height: 500px;
+	
+	text-align: left;
+	border: 1px solid black;
+	margin:40px;
+	padding:20px;
+	border-radius: 10px;
+	background-color:white;
+	justify-content: center;
+	
 	
 }
 video{
+	height:350px;
+	width:80vw;
 	 background-color: rgb(255, 255, 255); padding; border-radius
 }
 audio{
+	width:80vw;
 	background-color: rgb(255, 255, 255); padding; border-radius
 }
